@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+:root {
+    scroll-behavior: smooth;
+}
+
+select {
+    border:2px;
+    margin: 30px 30px;
+    padding: 10px 30px;
+    border-radius:5px;
+    border-color: black;
+}
+
+#btn {
+    padding: 10px 30px;
+}
